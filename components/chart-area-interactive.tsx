@@ -151,10 +151,10 @@ const chartConfig = {
     label: "Impressions",
     color: "var(--primary)",
   },
-  CTR: {
-    label: "CTR",
-    color: "var(--primary)",
-  },
+  // CTR: {
+  //   label: "CTR",
+  //   color: "var(--primary)",
+  // },
   Position: {
     label: "Position",
     color: "var(--primary)",
@@ -174,7 +174,7 @@ export function ChartAreaInteractive() {
 
   const filteredData = chartData.filter((item) => {
     const date = new Date(item.date)
-    const referenceDate = new Date("2026-02-17")
+    const referenceDate = new Date()
     let daysToSubtract = 90
     if (timeRange === "30d") {
       daysToSubtract = 30
@@ -306,28 +306,30 @@ export function ChartAreaInteractive() {
               stackId="a"
             />
 
-          <Area
+            <Area
               dataKey="Clicks"
               type="natural"
               fill="url(#fillMobile)"
               stroke="var(--color-mobile)"
               stackId="a"
             />
-           <Area
+            <Area
               dataKey="Impressions"
               type="natural"
               fill="url(#fillDesktop)"
               stroke="var(--color-desktop)"
               stackId="a"
             />
-             <Area
+            {/* <Area
               dataKey="CTR"
               type="natural"
               fill="url(#fillDesktop)"
-              stroke="var(--color-desktop)"
+              stroke="var(--destructive"
               stackId="a"
-            />
-             <Area
+
+            /> */}
+
+            <Area
               dataKey="Position"
               type="natural"
               fill="url(#fillDesktop)"

@@ -10,33 +10,33 @@
     "date": "11/19/2025",
     "Clicks": "1",
     "Impressions": "6",
-    "CTR": "16.67%",
+    "CTR": "23.67%",
     "Position": "3.8"
   },
   {
     "date": "11/20/2025",
-    "Clicks": "0",
+    "Clicks": "2",
     "Impressions": "7",
     "CTR": "0%",
     "Position": "3.9"
   },
   {
     "date": "11/21/2025",
-    "Clicks": "0",
-    "Impressions": "2",
-    "CTR": "0%",
+    "Clicks": "3",
+    "Impressions": "12",
+    "CTR": "23%",
     "Position": "7.5"
   },
   {
     "date": "11/22/2025",
-    "Clicks": "0",
-    "Impressions": "0",
+    "Clicks": "23",
+    "Impressions": "3",
     "CTR": "",
     "Position": ""
   },
   {
     "date": "11/23/2025",
-    "Clicks": "0",
+    "Clicks": "3",
     "Impressions": "33",
     "CTR": "0%",
     "Position": "16.4"
@@ -52,7 +52,7 @@
     "date": "11/25/2025",
     "Clicks": "0",
     "Impressions": "5",
-    "CTR": "0%",
+    "CTR": "3%",
     "Position": "3.8"
   },
   {
@@ -73,7 +73,7 @@
     "date": "11/28/2025",
     "Clicks": "0",
     "Impressions": "2",
-    "CTR": "0%",
+    "CTR": "2%",
     "Position": "34"
   },
   {
@@ -92,14 +92,14 @@
   },
   {
     "date": "12/1/2025",
-    "Clicks": "1",
+    "Clicks": "12",
     "Impressions": "5",
     "CTR": "20%",
     "Position": "2.8"
   },
   {
     "date": "12/2/2025",
-    "Clicks": "0",
+    "Clicks": "32",
     "Impressions": "5",
     "CTR": "0%",
     "Position": "2.4"
@@ -120,7 +120,7 @@
   },
   {
     "date": "12/5/2025",
-    "Clicks": "2",
+    "Clicks": "3",
     "Impressions": "7",
     "CTR": "28.57%",
     "Position": "5.3"
@@ -134,16 +134,16 @@
   },
   {
     "date": "12/7/2025",
-    "Clicks": "0",
+    "Clicks": "23",
     "Impressions": "5",
-    "CTR": "0%",
+    "CTR": "2%",
     "Position": "8"
   },
   {
     "date": "12/8/2025",
     "Clicks": "0",
     "Impressions": "4",
-    "CTR": "0%",
+    "CTR": "11%",
     "Position": "6.2"
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "date": "12/12/2025",
-    "Clicks": "0",
+    "Clicks": "23",
     "Impressions": "4",
     "CTR": "0%",
     "Position": "6.8"
@@ -239,7 +239,7 @@
   },
   {
     "date": "12/22/2025",
-    "Clicks": "0",
+    "Clicks": "23",
     "Impressions": "8",
     "CTR": "0%",
     "Position": "31"
@@ -270,7 +270,7 @@
     "Clicks": "0",
     "Impressions": "2",
     "CTR": "0%",
-    "Position": "1.5"
+    "Position": "1.52"
   },
   {
     "date": "12/27/2025",
@@ -288,7 +288,7 @@
   },
   {
     "date": "12/29/2025",
-    "Clicks": "0",
+    "Clicks": "22",
     "Impressions": "3",
     "CTR": "0%",
     "Position": "2.7"
@@ -312,7 +312,7 @@
     "Clicks": "0",
     "Impressions": "1",
     "CTR": "0%",
-    "Position": "1"
+    "Position": "21"
   },
   {
     "date": "1/2/2026",
@@ -326,7 +326,7 @@
     "Clicks": "0",
     "Impressions": "2",
     "CTR": "0%",
-    "Position": "4.5"
+    "Position": "42.5"
   },
   {
     "date": "1/4/2026",
@@ -351,7 +351,7 @@
   },
   {
     "date": "1/7/2026",
-    "Clicks": "0",
+    "Clicks": "12",
     "Impressions": "13",
     "CTR": "0%",
     "Position": "6.8"
@@ -393,7 +393,7 @@
   },
   {
     "date": "1/13/2026",
-    "Clicks": "0",
+    "Clicks": "23",
     "Impressions": "13",
     "CTR": "0%",
     "Position": "2.3"
@@ -417,7 +417,7 @@
     "Clicks": "0",
     "Impressions": "16",
     "CTR": "0%",
-    "Position": "35.4"
+    "Position": "23.4"
   },
   {
     "date": "1/17/2026",
@@ -428,7 +428,7 @@
   },
   {
     "date": "1/18/2026",
-    "Clicks": "0",
+    "Clicks": "22",
     "Impressions": "8",
     "CTR": "0%",
     "Position": "32.2"
@@ -471,8 +471,8 @@
   {
     "date": "1/24/2026",
     "Clicks": "0",
-    "Impressions": "7",
-    "CTR": "0%",
+    "Impressions": "17",
+    "CTR": "12%",
     "Position": "33.4"
   },
   {
@@ -499,8 +499,8 @@
   {
     "date": "1/28/2026",
     "Clicks": "0",
-    "Impressions": "30",
-    "CTR": "0%",
+    "Impressions": "22",
+    "CTR": "23%",
     "Position": "26.8"
   },
   {
@@ -526,7 +526,7 @@
   },
   {
     "date": "2/1/2026",
-    "Clicks": "0",
+    "Clicks": "10",
     "Impressions": "19",
     "CTR": "0%",
     "Position": "22.1"
@@ -561,7 +561,7 @@
   },
   {
     "date": "2/6/2026",
-    "Clicks": "1",
+    "Clicks": "13",
     "Impressions": "20",
     "CTR": "5%",
     "Position": "26.1"
@@ -596,7 +596,7 @@
   },
   {
     "date": "2/11/2026",
-    "Clicks": "1",
+    "Clicks": "12",
     "Impressions": "24",
     "CTR": "4.17%",
     "Position": "17.4"
@@ -621,5 +621,12 @@
     "Impressions": "87",
     "CTR": "0%",
     "Position": "13"
+  },
+  {
+    "date": "2/15/2026",
+    "Clicks": "0",
+    "Impressions": "55",
+    "CTR": "10%",
+    "Position": "23"
   }
 ]
